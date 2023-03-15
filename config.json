@@ -1,0 +1,10 @@
+{
+    "share_point": 
+        {
+            "user": "{coloque seu email}",
+            "password": "{coloque sua senha}",
+            "url": "https://{coloque seu dominio}.sharepoint.com/",
+            "site": "https://{coloque seu dominio}.sharepoint.com/sites/{seusite}/",
+            "doc_library": "Shared Documents/{suapasta}" 
+        }
+}
